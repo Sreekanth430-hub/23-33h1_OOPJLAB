@@ -24,7 +24,7 @@ class SimpleClass
     }
 }
 
-class Main
+class Class
 {
      public static void main(String[] args)
     {
