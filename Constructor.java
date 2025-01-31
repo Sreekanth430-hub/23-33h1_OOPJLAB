@@ -9,7 +9,7 @@ class A
         return l*b;
     }
 }
-class Main
+class Constructor
 {
     public static void main(String[] args)
     {
