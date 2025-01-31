@@ -18,3 +18,7 @@ class MethodOverload
         a1.Display(20,100);
     }
 }
+
+OUTPUT:-
+Name:Sreekanth ID:39
+Age:20 Marks:100
