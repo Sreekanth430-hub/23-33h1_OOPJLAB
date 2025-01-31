@@ -38,3 +38,19 @@ class Class
         input.close(); 
     }
 }
+
+
+
+
+
+OUTPUT:-
+Enter length of Rectangle:
+10
+Enter width of Rectangle:
+5
+Area of rectangle: 50
+Enter base of triangle:
+10
+Enter height of triangle:
+15
+Area of Triangle: 75.0
