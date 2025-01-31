@@ -18,3 +18,8 @@ class Constructor
         System.out.println("Area:"+Area);
     }
 }
+
+
+OUTPUT:-
+Area of Rectangle
+Area:200
